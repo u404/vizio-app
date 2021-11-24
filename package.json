@@ -1,0 +1,42 @@
+{
+  "name": "vizio-app",
+  "version": "1.3.1",
+  "private": true,
+  "dependencies": {
+    "@sc/lib-amplitude": "latest",
+    "@sc/lib-axios": "latest",
+    "@sc/lib-callapp-intl": "latest",
+    "@sc/lib-env": "latest",
+    "@sc/lib-region-locale": "latest",
+    "@sc/lib-share": "latest",
+    "@sc/lib-user": "latest",
+    "@sc/lib-web-utils-intl": "latest",
+    "@sc/mscroll": "latest",
+    "@sc/vue-ui-h5": "latest",
+    "animejs": "^3.2.0",
+    "lodash": "^4.17.19",
+    "qrcode": "^1.4.4",
+    "shaka-player": "^3.0.7",
+    "swiper": "^5.4.2",
+    "vconsole": "^3.3.4",
+    "video.js": "^7.10.2",
+    "videojs-contrib-dash": "^4.0.0",
+    "vue-awesome-swiper": "^4.1.1",
+    "vue-router": "^3.3.4"
+  },
+  "devDependencies": {
+    "@sc/cli-plugin-babel": "latest",
+    "@sc/cli-plugin-eslint": "latest",
+    "@sc/cli-service": "latest",
+    "@vue/eslint-config-standard": "^4.0.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.8.0",
+    "eslint-plugin-vue": "^5.0.0-0",
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.0.1",
+    "vue-template-compiler": "^2.5.17"
+  },
+  "scripts": {
+    "lint": "vue-cli-service lint"
+  }
+}

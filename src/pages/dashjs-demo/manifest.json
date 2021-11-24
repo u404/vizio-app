@@ -1,0 +1,2359 @@
+{
+	"Period": {
+		"AdaptationSet": [{
+			"Representation": {
+				"BaseURL": "subtitle.vtt",
+				"BaseURL_asArray": ["subtitle.vtt"],
+				"id": "0",
+				"bandwidth": 256,
+				"mimeType": "text/vtt"
+			},
+			"Representation_asArray": [{
+				"BaseURL": "subtitle.vtt",
+				"BaseURL_asArray": ["subtitle.vtt"],
+				"id": "0",
+				"bandwidth": 256,
+				"mimeType": "text/vtt"
+			}],
+			"id": 0,
+			"contentType": "text",
+			"subsegmentAlignment": "true"
+		}, {
+			"ContentProtection": [{
+				"value": "cenc",
+				"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+				"cenc:default_KID": "197fd934-1f4a-33c3-9460-99b795722ac1"
+			}, {
+				"pssh": {
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQGX/ZNB9KM8OUYJm3lXIqwRoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				},
+				"pssh_asArray": [{
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQGX/ZNB9KM8OUYJm3lXIqwRoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				}],
+				"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+			}],
+			"ContentProtection_asArray": [{
+				"value": "cenc",
+				"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+				"cenc:default_KID": "197fd934-1f4a-33c3-9460-99b795722ac1"
+			}, {
+				"pssh": {
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQGX/ZNB9KM8OUYJm3lXIqwRoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				},
+				"pssh_asArray": [{
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQGX/ZNB9KM8OUYJm3lXIqwRoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				}],
+				"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+			}],
+			"SupplementalProperty": {
+				"schemeIdUri": "urn:mpeg:dash:adaptation-set-switching:2016",
+				"value": "2"
+			},
+			"SupplementalProperty_asArray": [{
+				"schemeIdUri": "urn:mpeg:dash:adaptation-set-switching:2016",
+				"value": "2"
+			}],
+			"Role": {
+				"schemeIdUri": "urn:mpeg:dash:role:2011",
+				"value": "main"
+			},
+			"Role_asArray": [{
+				"schemeIdUri": "urn:mpeg:dash:role:2011",
+				"value": "main"
+			}],
+			"Representation": {
+				"BaseURL": "1_7-0-95f6c5e7281911eb89667cd30a5a30b4.mp4",
+				"BaseURL_asArray": ["1_7-0-95f6c5e7281911eb89667cd30a5a30b4.mp4"],
+				"SegmentBase": {
+					"Initialization": {
+						"range": "0-1099"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1099"
+					}],
+					"indexRange": "1100-8403",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				},
+				"SegmentBase_asArray": [{
+					"Initialization": {
+						"range": "0-1099"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1099"
+					}],
+					"indexRange": "1100-8403",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				}],
+				"id": "1",
+				"bandwidth": 433288,
+				"codecs": "avc1.64081e",
+				"mimeType": "video/mp4",
+				"sar": "1533:1472",
+				"width": 640,
+				"height": 360,
+				"frameRate": "90000/3600",
+				"ContentProtection": [{
+					"value": "cenc",
+					"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+					"cenc:default_KID": "197fd934-1f4a-33c3-9460-99b795722ac1"
+				}, {
+					"pssh": {
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQGX/ZNB9KM8OUYJm3lXIqwRoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					},
+					"pssh_asArray": [{
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQGX/ZNB9KM8OUYJm3lXIqwRoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					}],
+					"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+				}],
+				"SupplementalProperty": {
+					"schemeIdUri": "urn:mpeg:dash:adaptation-set-switching:2016",
+					"value": "2"
+				}
+			},
+			"Representation_asArray": [{
+				"BaseURL": "1_7-0-95f6c5e7281911eb89667cd30a5a30b4.mp4",
+				"BaseURL_asArray": ["1_7-0-95f6c5e7281911eb89667cd30a5a30b4.mp4"],
+				"SegmentBase": {
+					"Initialization": {
+						"range": "0-1099"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1099"
+					}],
+					"indexRange": "1100-8403",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				},
+				"SegmentBase_asArray": [{
+					"Initialization": {
+						"range": "0-1099"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1099"
+					}],
+					"indexRange": "1100-8403",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				}],
+				"id": "1",
+				"bandwidth": 433288,
+				"codecs": "avc1.64081e",
+				"mimeType": "video/mp4",
+				"sar": "1533:1472",
+				"width": 640,
+				"height": 360,
+				"frameRate": "90000/3600",
+				"ContentProtection": [{
+					"value": "cenc",
+					"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+					"cenc:default_KID": "197fd934-1f4a-33c3-9460-99b795722ac1"
+				}, {
+					"pssh": {
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQGX/ZNB9KM8OUYJm3lXIqwRoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					},
+					"pssh_asArray": [{
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQGX/ZNB9KM8OUYJm3lXIqwRoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					}],
+					"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+				}],
+				"SupplementalProperty": {
+					"schemeIdUri": "urn:mpeg:dash:adaptation-set-switching:2016",
+					"value": "2"
+				}
+			}],
+			"id": 1,
+			"contentType": "video",
+			"width": 640,
+			"height": 360,
+			"frameRate": "90000/3600",
+			"subsegmentAlignment": "true",
+			"par": "24:13"
+		}, {
+			"ContentProtection": [{
+				"value": "cenc",
+				"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+				"cenc:default_KID": "2a3873c6-a822-379f-9c4b-9c364a9167ac"
+			}, {
+				"pssh": {
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				},
+				"pssh_asArray": [{
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				}],
+				"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+			}],
+			"ContentProtection_asArray": [{
+				"value": "cenc",
+				"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+				"cenc:default_KID": "2a3873c6-a822-379f-9c4b-9c364a9167ac"
+			}, {
+				"pssh": {
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				},
+				"pssh_asArray": [{
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				}],
+				"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+			}],
+			"SupplementalProperty": {
+				"schemeIdUri": "urn:mpeg:dash:adaptation-set-switching:2016",
+				"value": "1"
+			},
+			"SupplementalProperty_asArray": [{
+				"schemeIdUri": "urn:mpeg:dash:adaptation-set-switching:2016",
+				"value": "1"
+			}],
+			"Role": {
+				"schemeIdUri": "urn:mpeg:dash:role:2011",
+				"value": "main"
+			},
+			"Role_asArray": [{
+				"schemeIdUri": "urn:mpeg:dash:role:2011",
+				"value": "main"
+			}],
+			"Representation": [{
+				"BaseURL": "1_3-0-95f6c5e7281911eb89667cd30a5a30b4.mp4",
+				"BaseURL_asArray": ["1_3-0-95f6c5e7281911eb89667cd30a5a30b4.mp4"],
+				"SegmentBase": {
+					"Initialization": {
+						"range": "0-1099"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1099"
+					}],
+					"indexRange": "1100-8403",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				},
+				"SegmentBase_asArray": [{
+					"Initialization": {
+						"range": "0-1099"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1099"
+					}],
+					"indexRange": "1100-8403",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				}],
+				"id": "2",
+				"bandwidth": 1610960,
+				"codecs": "avc1.64081f",
+				"mimeType": "video/mp4",
+				"sar": "1533:1472",
+				"width": 1280,
+				"height": 720,
+				"frameRate": "90000/3600",
+				"ContentProtection": [{
+					"value": "cenc",
+					"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+					"cenc:default_KID": "2a3873c6-a822-379f-9c4b-9c364a9167ac"
+				}, {
+					"pssh": {
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					},
+					"pssh_asArray": [{
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					}],
+					"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+				}],
+				"SupplementalProperty": {
+					"schemeIdUri": "urn:mpeg:dash:adaptation-set-switching:2016",
+					"value": "1"
+				}
+			}, {
+				"BaseURL": "1_1-0-95f6c5e7281911eb89667cd30a5a30b4.mp4",
+				"BaseURL_asArray": ["1_1-0-95f6c5e7281911eb89667cd30a5a30b4.mp4"],
+				"SegmentBase": {
+					"Initialization": {
+						"range": "0-1100"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1100"
+					}],
+					"indexRange": "1101-8404",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				},
+				"SegmentBase_asArray": [{
+					"Initialization": {
+						"range": "0-1100"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1100"
+					}],
+					"indexRange": "1101-8404",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				}],
+				"id": "3",
+				"bandwidth": 3158912,
+				"codecs": "avc1.640828",
+				"mimeType": "video/mp4",
+				"sar": "1533:1472",
+				"width": 1920,
+				"height": 1080,
+				"frameRate": "90000/3600",
+				"ContentProtection": [{
+					"value": "cenc",
+					"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+					"cenc:default_KID": "2a3873c6-a822-379f-9c4b-9c364a9167ac"
+				}, {
+					"pssh": {
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					},
+					"pssh_asArray": [{
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					}],
+					"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+				}],
+				"SupplementalProperty": {
+					"schemeIdUri": "urn:mpeg:dash:adaptation-set-switching:2016",
+					"value": "1"
+				}
+			}],
+			"Representation_asArray": [{
+				"BaseURL": "1_3-0-95f6c5e7281911eb89667cd30a5a30b4.mp4",
+				"BaseURL_asArray": ["1_3-0-95f6c5e7281911eb89667cd30a5a30b4.mp4"],
+				"SegmentBase": {
+					"Initialization": {
+						"range": "0-1099"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1099"
+					}],
+					"indexRange": "1100-8403",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				},
+				"SegmentBase_asArray": [{
+					"Initialization": {
+						"range": "0-1099"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1099"
+					}],
+					"indexRange": "1100-8403",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				}],
+				"id": "2",
+				"bandwidth": 1610960,
+				"codecs": "avc1.64081f",
+				"mimeType": "video/mp4",
+				"sar": "1533:1472",
+				"width": 1280,
+				"height": 720,
+				"frameRate": "90000/3600",
+				"ContentProtection": [{
+					"value": "cenc",
+					"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+					"cenc:default_KID": "2a3873c6-a822-379f-9c4b-9c364a9167ac"
+				}, {
+					"pssh": {
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					},
+					"pssh_asArray": [{
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					}],
+					"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+				}],
+				"SupplementalProperty": {
+					"schemeIdUri": "urn:mpeg:dash:adaptation-set-switching:2016",
+					"value": "1"
+				}
+			}, {
+				"BaseURL": "1_1-0-95f6c5e7281911eb89667cd30a5a30b4.mp4",
+				"BaseURL_asArray": ["1_1-0-95f6c5e7281911eb89667cd30a5a30b4.mp4"],
+				"SegmentBase": {
+					"Initialization": {
+						"range": "0-1100"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1100"
+					}],
+					"indexRange": "1101-8404",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				},
+				"SegmentBase_asArray": [{
+					"Initialization": {
+						"range": "0-1100"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1100"
+					}],
+					"indexRange": "1101-8404",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				}],
+				"id": "3",
+				"bandwidth": 3158912,
+				"codecs": "avc1.640828",
+				"mimeType": "video/mp4",
+				"sar": "1533:1472",
+				"width": 1920,
+				"height": 1080,
+				"frameRate": "90000/3600",
+				"ContentProtection": [{
+					"value": "cenc",
+					"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+					"cenc:default_KID": "2a3873c6-a822-379f-9c4b-9c364a9167ac"
+				}, {
+					"pssh": {
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					},
+					"pssh_asArray": [{
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					}],
+					"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+				}],
+				"SupplementalProperty": {
+					"schemeIdUri": "urn:mpeg:dash:adaptation-set-switching:2016",
+					"value": "1"
+				}
+			}],
+			"id": 2,
+			"contentType": "video",
+			"maxWidth": 1920,
+			"maxHeight": 1080,
+			"frameRate": "90000/3600",
+			"subsegmentAlignment": "true",
+			"par": "24:13"
+		}, {
+			"ContentProtection": [{
+				"value": "cenc",
+				"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+				"cenc:default_KID": "f4a35016-dcb7-305a-b8a2-64cd75f59282"
+			}, {
+				"pssh": {
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQ9KNQFty3MFq4omTNdfWSghoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				},
+				"pssh_asArray": [{
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQ9KNQFty3MFq4omTNdfWSghoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				}],
+				"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+			}],
+			"ContentProtection_asArray": [{
+				"value": "cenc",
+				"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+				"cenc:default_KID": "f4a35016-dcb7-305a-b8a2-64cd75f59282"
+			}, {
+				"pssh": {
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQ9KNQFty3MFq4omTNdfWSghoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				},
+				"pssh_asArray": [{
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQ9KNQFty3MFq4omTNdfWSghoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				}],
+				"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+			}],
+			"Representation": {
+				"AudioChannelConfiguration": {
+					"schemeIdUri": "urn:mpeg:dash:23003:3:audio_channel_configuration:2011",
+					"value": "2"
+				},
+				"AudioChannelConfiguration_asArray": [{
+					"schemeIdUri": "urn:mpeg:dash:23003:3:audio_channel_configuration:2011",
+					"value": "2"
+				}],
+				"BaseURL": "1_1-0-95f6c5e7281911eb89667cd30a5a30b4_audio.mp4",
+				"BaseURL_asArray": ["1_1-0-95f6c5e7281911eb89667cd30a5a30b4_audio.mp4"],
+				"SegmentBase": {
+					"Initialization": {
+						"range": "0-973"
+					},
+					"Initialization_asArray": [{
+						"range": "0-973"
+					}],
+					"indexRange": "974-8277",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				},
+				"SegmentBase_asArray": [{
+					"Initialization": {
+						"range": "0-973"
+					},
+					"Initialization_asArray": [{
+						"range": "0-973"
+					}],
+					"indexRange": "974-8277",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				}],
+				"id": "4",
+				"bandwidth": 143299,
+				"codecs": "mp4a.40.2",
+				"mimeType": "audio/mp4",
+				"audioSamplingRate": 44100,
+				"ContentProtection": [{
+					"value": "cenc",
+					"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+					"cenc:default_KID": "f4a35016-dcb7-305a-b8a2-64cd75f59282"
+				}, {
+					"pssh": {
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQ9KNQFty3MFq4omTNdfWSghoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					},
+					"pssh_asArray": [{
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQ9KNQFty3MFq4omTNdfWSghoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					}],
+					"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+				}]
+			},
+			"Representation_asArray": [{
+				"AudioChannelConfiguration": {
+					"schemeIdUri": "urn:mpeg:dash:23003:3:audio_channel_configuration:2011",
+					"value": "2"
+				},
+				"AudioChannelConfiguration_asArray": [{
+					"schemeIdUri": "urn:mpeg:dash:23003:3:audio_channel_configuration:2011",
+					"value": "2"
+				}],
+				"BaseURL": "1_1-0-95f6c5e7281911eb89667cd30a5a30b4_audio.mp4",
+				"BaseURL_asArray": ["1_1-0-95f6c5e7281911eb89667cd30a5a30b4_audio.mp4"],
+				"SegmentBase": {
+					"Initialization": {
+						"range": "0-973"
+					},
+					"Initialization_asArray": [{
+						"range": "0-973"
+					}],
+					"indexRange": "974-8277",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				},
+				"SegmentBase_asArray": [{
+					"Initialization": {
+						"range": "0-973"
+					},
+					"Initialization_asArray": [{
+						"range": "0-973"
+					}],
+					"indexRange": "974-8277",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				}],
+				"id": "4",
+				"bandwidth": 143299,
+				"codecs": "mp4a.40.2",
+				"mimeType": "audio/mp4",
+				"audioSamplingRate": 44100,
+				"ContentProtection": [{
+					"value": "cenc",
+					"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+					"cenc:default_KID": "f4a35016-dcb7-305a-b8a2-64cd75f59282"
+				}, {
+					"pssh": {
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQ9KNQFty3MFq4omTNdfWSghoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					},
+					"pssh_asArray": [{
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQ9KNQFty3MFq4omTNdfWSghoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					}],
+					"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+				}]
+			}],
+			"id": 3,
+			"contentType": "audio",
+			"subsegmentAlignment": "true"
+		}],
+		"AdaptationSet_asArray": [{
+			"Representation": {
+				"BaseURL": "subtitle.vtt",
+				"BaseURL_asArray": ["subtitle.vtt"],
+				"id": "0",
+				"bandwidth": 256,
+				"mimeType": "text/vtt"
+			},
+			"Representation_asArray": [{
+				"BaseURL": "subtitle.vtt",
+				"BaseURL_asArray": ["subtitle.vtt"],
+				"id": "0",
+				"bandwidth": 256,
+				"mimeType": "text/vtt"
+			}],
+			"id": 0,
+			"contentType": "text",
+			"subsegmentAlignment": "true"
+		}, {
+			"ContentProtection": [{
+				"value": "cenc",
+				"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+				"cenc:default_KID": "197fd934-1f4a-33c3-9460-99b795722ac1"
+			}, {
+				"pssh": {
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQGX/ZNB9KM8OUYJm3lXIqwRoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				},
+				"pssh_asArray": [{
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQGX/ZNB9KM8OUYJm3lXIqwRoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				}],
+				"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+			}],
+			"ContentProtection_asArray": [{
+				"value": "cenc",
+				"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+				"cenc:default_KID": "197fd934-1f4a-33c3-9460-99b795722ac1"
+			}, {
+				"pssh": {
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQGX/ZNB9KM8OUYJm3lXIqwRoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				},
+				"pssh_asArray": [{
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQGX/ZNB9KM8OUYJm3lXIqwRoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				}],
+				"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+			}],
+			"SupplementalProperty": {
+				"schemeIdUri": "urn:mpeg:dash:adaptation-set-switching:2016",
+				"value": "2"
+			},
+			"SupplementalProperty_asArray": [{
+				"schemeIdUri": "urn:mpeg:dash:adaptation-set-switching:2016",
+				"value": "2"
+			}],
+			"Role": {
+				"schemeIdUri": "urn:mpeg:dash:role:2011",
+				"value": "main"
+			},
+			"Role_asArray": [{
+				"schemeIdUri": "urn:mpeg:dash:role:2011",
+				"value": "main"
+			}],
+			"Representation": {
+				"BaseURL": "1_7-0-95f6c5e7281911eb89667cd30a5a30b4.mp4",
+				"BaseURL_asArray": ["1_7-0-95f6c5e7281911eb89667cd30a5a30b4.mp4"],
+				"SegmentBase": {
+					"Initialization": {
+						"range": "0-1099"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1099"
+					}],
+					"indexRange": "1100-8403",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				},
+				"SegmentBase_asArray": [{
+					"Initialization": {
+						"range": "0-1099"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1099"
+					}],
+					"indexRange": "1100-8403",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				}],
+				"id": "1",
+				"bandwidth": 433288,
+				"codecs": "avc1.64081e",
+				"mimeType": "video/mp4",
+				"sar": "1533:1472",
+				"width": 640,
+				"height": 360,
+				"frameRate": "90000/3600",
+				"ContentProtection": [{
+					"value": "cenc",
+					"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+					"cenc:default_KID": "197fd934-1f4a-33c3-9460-99b795722ac1"
+				}, {
+					"pssh": {
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQGX/ZNB9KM8OUYJm3lXIqwRoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					},
+					"pssh_asArray": [{
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQGX/ZNB9KM8OUYJm3lXIqwRoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					}],
+					"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+				}],
+				"SupplementalProperty": {
+					"schemeIdUri": "urn:mpeg:dash:adaptation-set-switching:2016",
+					"value": "2"
+				}
+			},
+			"Representation_asArray": [{
+				"BaseURL": "1_7-0-95f6c5e7281911eb89667cd30a5a30b4.mp4",
+				"BaseURL_asArray": ["1_7-0-95f6c5e7281911eb89667cd30a5a30b4.mp4"],
+				"SegmentBase": {
+					"Initialization": {
+						"range": "0-1099"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1099"
+					}],
+					"indexRange": "1100-8403",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				},
+				"SegmentBase_asArray": [{
+					"Initialization": {
+						"range": "0-1099"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1099"
+					}],
+					"indexRange": "1100-8403",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				}],
+				"id": "1",
+				"bandwidth": 433288,
+				"codecs": "avc1.64081e",
+				"mimeType": "video/mp4",
+				"sar": "1533:1472",
+				"width": 640,
+				"height": 360,
+				"frameRate": "90000/3600",
+				"ContentProtection": [{
+					"value": "cenc",
+					"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+					"cenc:default_KID": "197fd934-1f4a-33c3-9460-99b795722ac1"
+				}, {
+					"pssh": {
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQGX/ZNB9KM8OUYJm3lXIqwRoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					},
+					"pssh_asArray": [{
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQGX/ZNB9KM8OUYJm3lXIqwRoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					}],
+					"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+				}],
+				"SupplementalProperty": {
+					"schemeIdUri": "urn:mpeg:dash:adaptation-set-switching:2016",
+					"value": "2"
+				}
+			}],
+			"id": 1,
+			"contentType": "video",
+			"width": 640,
+			"height": 360,
+			"frameRate": "90000/3600",
+			"subsegmentAlignment": "true",
+			"par": "24:13"
+		}, {
+			"ContentProtection": [{
+				"value": "cenc",
+				"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+				"cenc:default_KID": "2a3873c6-a822-379f-9c4b-9c364a9167ac"
+			}, {
+				"pssh": {
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				},
+				"pssh_asArray": [{
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				}],
+				"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+			}],
+			"ContentProtection_asArray": [{
+				"value": "cenc",
+				"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+				"cenc:default_KID": "2a3873c6-a822-379f-9c4b-9c364a9167ac"
+			}, {
+				"pssh": {
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				},
+				"pssh_asArray": [{
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				}],
+				"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+			}],
+			"SupplementalProperty": {
+				"schemeIdUri": "urn:mpeg:dash:adaptation-set-switching:2016",
+				"value": "1"
+			},
+			"SupplementalProperty_asArray": [{
+				"schemeIdUri": "urn:mpeg:dash:adaptation-set-switching:2016",
+				"value": "1"
+			}],
+			"Role": {
+				"schemeIdUri": "urn:mpeg:dash:role:2011",
+				"value": "main"
+			},
+			"Role_asArray": [{
+				"schemeIdUri": "urn:mpeg:dash:role:2011",
+				"value": "main"
+			}],
+			"Representation": [{
+				"BaseURL": "1_3-0-95f6c5e7281911eb89667cd30a5a30b4.mp4",
+				"BaseURL_asArray": ["1_3-0-95f6c5e7281911eb89667cd30a5a30b4.mp4"],
+				"SegmentBase": {
+					"Initialization": {
+						"range": "0-1099"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1099"
+					}],
+					"indexRange": "1100-8403",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				},
+				"SegmentBase_asArray": [{
+					"Initialization": {
+						"range": "0-1099"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1099"
+					}],
+					"indexRange": "1100-8403",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				}],
+				"id": "2",
+				"bandwidth": 1610960,
+				"codecs": "avc1.64081f",
+				"mimeType": "video/mp4",
+				"sar": "1533:1472",
+				"width": 1280,
+				"height": 720,
+				"frameRate": "90000/3600",
+				"ContentProtection": [{
+					"value": "cenc",
+					"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+					"cenc:default_KID": "2a3873c6-a822-379f-9c4b-9c364a9167ac"
+				}, {
+					"pssh": {
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					},
+					"pssh_asArray": [{
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					}],
+					"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+				}],
+				"SupplementalProperty": {
+					"schemeIdUri": "urn:mpeg:dash:adaptation-set-switching:2016",
+					"value": "1"
+				}
+			}, {
+				"BaseURL": "1_1-0-95f6c5e7281911eb89667cd30a5a30b4.mp4",
+				"BaseURL_asArray": ["1_1-0-95f6c5e7281911eb89667cd30a5a30b4.mp4"],
+				"SegmentBase": {
+					"Initialization": {
+						"range": "0-1100"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1100"
+					}],
+					"indexRange": "1101-8404",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				},
+				"SegmentBase_asArray": [{
+					"Initialization": {
+						"range": "0-1100"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1100"
+					}],
+					"indexRange": "1101-8404",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				}],
+				"id": "3",
+				"bandwidth": 3158912,
+				"codecs": "avc1.640828",
+				"mimeType": "video/mp4",
+				"sar": "1533:1472",
+				"width": 1920,
+				"height": 1080,
+				"frameRate": "90000/3600",
+				"ContentProtection": [{
+					"value": "cenc",
+					"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+					"cenc:default_KID": "2a3873c6-a822-379f-9c4b-9c364a9167ac"
+				}, {
+					"pssh": {
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					},
+					"pssh_asArray": [{
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					}],
+					"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+				}],
+				"SupplementalProperty": {
+					"schemeIdUri": "urn:mpeg:dash:adaptation-set-switching:2016",
+					"value": "1"
+				}
+			}],
+			"Representation_asArray": [{
+				"BaseURL": "1_3-0-95f6c5e7281911eb89667cd30a5a30b4.mp4",
+				"BaseURL_asArray": ["1_3-0-95f6c5e7281911eb89667cd30a5a30b4.mp4"],
+				"SegmentBase": {
+					"Initialization": {
+						"range": "0-1099"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1099"
+					}],
+					"indexRange": "1100-8403",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				},
+				"SegmentBase_asArray": [{
+					"Initialization": {
+						"range": "0-1099"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1099"
+					}],
+					"indexRange": "1100-8403",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				}],
+				"id": "2",
+				"bandwidth": 1610960,
+				"codecs": "avc1.64081f",
+				"mimeType": "video/mp4",
+				"sar": "1533:1472",
+				"width": 1280,
+				"height": 720,
+				"frameRate": "90000/3600",
+				"ContentProtection": [{
+					"value": "cenc",
+					"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+					"cenc:default_KID": "2a3873c6-a822-379f-9c4b-9c364a9167ac"
+				}, {
+					"pssh": {
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					},
+					"pssh_asArray": [{
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					}],
+					"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+				}],
+				"SupplementalProperty": {
+					"schemeIdUri": "urn:mpeg:dash:adaptation-set-switching:2016",
+					"value": "1"
+				}
+			}, {
+				"BaseURL": "1_1-0-95f6c5e7281911eb89667cd30a5a30b4.mp4",
+				"BaseURL_asArray": ["1_1-0-95f6c5e7281911eb89667cd30a5a30b4.mp4"],
+				"SegmentBase": {
+					"Initialization": {
+						"range": "0-1100"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1100"
+					}],
+					"indexRange": "1101-8404",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				},
+				"SegmentBase_asArray": [{
+					"Initialization": {
+						"range": "0-1100"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1100"
+					}],
+					"indexRange": "1101-8404",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				}],
+				"id": "3",
+				"bandwidth": 3158912,
+				"codecs": "avc1.640828",
+				"mimeType": "video/mp4",
+				"sar": "1533:1472",
+				"width": 1920,
+				"height": 1080,
+				"frameRate": "90000/3600",
+				"ContentProtection": [{
+					"value": "cenc",
+					"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+					"cenc:default_KID": "2a3873c6-a822-379f-9c4b-9c364a9167ac"
+				}, {
+					"pssh": {
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					},
+					"pssh_asArray": [{
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					}],
+					"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+				}],
+				"SupplementalProperty": {
+					"schemeIdUri": "urn:mpeg:dash:adaptation-set-switching:2016",
+					"value": "1"
+				}
+			}],
+			"id": 2,
+			"contentType": "video",
+			"maxWidth": 1920,
+			"maxHeight": 1080,
+			"frameRate": "90000/3600",
+			"subsegmentAlignment": "true",
+			"par": "24:13"
+		}, {
+			"ContentProtection": [{
+				"value": "cenc",
+				"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+				"cenc:default_KID": "f4a35016-dcb7-305a-b8a2-64cd75f59282"
+			}, {
+				"pssh": {
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQ9KNQFty3MFq4omTNdfWSghoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				},
+				"pssh_asArray": [{
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQ9KNQFty3MFq4omTNdfWSghoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				}],
+				"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+			}],
+			"ContentProtection_asArray": [{
+				"value": "cenc",
+				"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+				"cenc:default_KID": "f4a35016-dcb7-305a-b8a2-64cd75f59282"
+			}, {
+				"pssh": {
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQ9KNQFty3MFq4omTNdfWSghoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				},
+				"pssh_asArray": [{
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQ9KNQFty3MFq4omTNdfWSghoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				}],
+				"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+			}],
+			"Representation": {
+				"AudioChannelConfiguration": {
+					"schemeIdUri": "urn:mpeg:dash:23003:3:audio_channel_configuration:2011",
+					"value": "2"
+				},
+				"AudioChannelConfiguration_asArray": [{
+					"schemeIdUri": "urn:mpeg:dash:23003:3:audio_channel_configuration:2011",
+					"value": "2"
+				}],
+				"BaseURL": "1_1-0-95f6c5e7281911eb89667cd30a5a30b4_audio.mp4",
+				"BaseURL_asArray": ["1_1-0-95f6c5e7281911eb89667cd30a5a30b4_audio.mp4"],
+				"SegmentBase": {
+					"Initialization": {
+						"range": "0-973"
+					},
+					"Initialization_asArray": [{
+						"range": "0-973"
+					}],
+					"indexRange": "974-8277",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				},
+				"SegmentBase_asArray": [{
+					"Initialization": {
+						"range": "0-973"
+					},
+					"Initialization_asArray": [{
+						"range": "0-973"
+					}],
+					"indexRange": "974-8277",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				}],
+				"id": "4",
+				"bandwidth": 143299,
+				"codecs": "mp4a.40.2",
+				"mimeType": "audio/mp4",
+				"audioSamplingRate": 44100,
+				"ContentProtection": [{
+					"value": "cenc",
+					"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+					"cenc:default_KID": "f4a35016-dcb7-305a-b8a2-64cd75f59282"
+				}, {
+					"pssh": {
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQ9KNQFty3MFq4omTNdfWSghoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					},
+					"pssh_asArray": [{
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQ9KNQFty3MFq4omTNdfWSghoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					}],
+					"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+				}]
+			},
+			"Representation_asArray": [{
+				"AudioChannelConfiguration": {
+					"schemeIdUri": "urn:mpeg:dash:23003:3:audio_channel_configuration:2011",
+					"value": "2"
+				},
+				"AudioChannelConfiguration_asArray": [{
+					"schemeIdUri": "urn:mpeg:dash:23003:3:audio_channel_configuration:2011",
+					"value": "2"
+				}],
+				"BaseURL": "1_1-0-95f6c5e7281911eb89667cd30a5a30b4_audio.mp4",
+				"BaseURL_asArray": ["1_1-0-95f6c5e7281911eb89667cd30a5a30b4_audio.mp4"],
+				"SegmentBase": {
+					"Initialization": {
+						"range": "0-973"
+					},
+					"Initialization_asArray": [{
+						"range": "0-973"
+					}],
+					"indexRange": "974-8277",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				},
+				"SegmentBase_asArray": [{
+					"Initialization": {
+						"range": "0-973"
+					},
+					"Initialization_asArray": [{
+						"range": "0-973"
+					}],
+					"indexRange": "974-8277",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				}],
+				"id": "4",
+				"bandwidth": 143299,
+				"codecs": "mp4a.40.2",
+				"mimeType": "audio/mp4",
+				"audioSamplingRate": 44100,
+				"ContentProtection": [{
+					"value": "cenc",
+					"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+					"cenc:default_KID": "f4a35016-dcb7-305a-b8a2-64cd75f59282"
+				}, {
+					"pssh": {
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQ9KNQFty3MFq4omTNdfWSghoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					},
+					"pssh_asArray": [{
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQ9KNQFty3MFq4omTNdfWSghoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					}],
+					"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+				}]
+			}],
+			"id": 3,
+			"contentType": "audio",
+			"subsegmentAlignment": "true"
+		}],
+		"id": "0"
+	},
+	"Period_asArray": [{
+		"AdaptationSet": [{
+			"Representation": {
+				"BaseURL": "subtitle.vtt",
+				"BaseURL_asArray": ["subtitle.vtt"],
+				"id": "0",
+				"bandwidth": 256,
+				"mimeType": "text/vtt"
+			},
+			"Representation_asArray": [{
+				"BaseURL": "subtitle.vtt",
+				"BaseURL_asArray": ["subtitle.vtt"],
+				"id": "0",
+				"bandwidth": 256,
+				"mimeType": "text/vtt"
+			}],
+			"id": 0,
+			"contentType": "text",
+			"subsegmentAlignment": "true"
+		}, {
+			"ContentProtection": [{
+				"value": "cenc",
+				"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+				"cenc:default_KID": "197fd934-1f4a-33c3-9460-99b795722ac1"
+			}, {
+				"pssh": {
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQGX/ZNB9KM8OUYJm3lXIqwRoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				},
+				"pssh_asArray": [{
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQGX/ZNB9KM8OUYJm3lXIqwRoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				}],
+				"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+			}],
+			"ContentProtection_asArray": [{
+				"value": "cenc",
+				"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+				"cenc:default_KID": "197fd934-1f4a-33c3-9460-99b795722ac1"
+			}, {
+				"pssh": {
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQGX/ZNB9KM8OUYJm3lXIqwRoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				},
+				"pssh_asArray": [{
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQGX/ZNB9KM8OUYJm3lXIqwRoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				}],
+				"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+			}],
+			"SupplementalProperty": {
+				"schemeIdUri": "urn:mpeg:dash:adaptation-set-switching:2016",
+				"value": "2"
+			},
+			"SupplementalProperty_asArray": [{
+				"schemeIdUri": "urn:mpeg:dash:adaptation-set-switching:2016",
+				"value": "2"
+			}],
+			"Role": {
+				"schemeIdUri": "urn:mpeg:dash:role:2011",
+				"value": "main"
+			},
+			"Role_asArray": [{
+				"schemeIdUri": "urn:mpeg:dash:role:2011",
+				"value": "main"
+			}],
+			"Representation": {
+				"BaseURL": "1_7-0-95f6c5e7281911eb89667cd30a5a30b4.mp4",
+				"BaseURL_asArray": ["1_7-0-95f6c5e7281911eb89667cd30a5a30b4.mp4"],
+				"SegmentBase": {
+					"Initialization": {
+						"range": "0-1099"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1099"
+					}],
+					"indexRange": "1100-8403",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				},
+				"SegmentBase_asArray": [{
+					"Initialization": {
+						"range": "0-1099"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1099"
+					}],
+					"indexRange": "1100-8403",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				}],
+				"id": "1",
+				"bandwidth": 433288,
+				"codecs": "avc1.64081e",
+				"mimeType": "video/mp4",
+				"sar": "1533:1472",
+				"width": 640,
+				"height": 360,
+				"frameRate": "90000/3600",
+				"ContentProtection": [{
+					"value": "cenc",
+					"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+					"cenc:default_KID": "197fd934-1f4a-33c3-9460-99b795722ac1"
+				}, {
+					"pssh": {
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQGX/ZNB9KM8OUYJm3lXIqwRoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					},
+					"pssh_asArray": [{
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQGX/ZNB9KM8OUYJm3lXIqwRoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					}],
+					"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+				}],
+				"SupplementalProperty": {
+					"schemeIdUri": "urn:mpeg:dash:adaptation-set-switching:2016",
+					"value": "2"
+				}
+			},
+			"Representation_asArray": [{
+				"BaseURL": "1_7-0-95f6c5e7281911eb89667cd30a5a30b4.mp4",
+				"BaseURL_asArray": ["1_7-0-95f6c5e7281911eb89667cd30a5a30b4.mp4"],
+				"SegmentBase": {
+					"Initialization": {
+						"range": "0-1099"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1099"
+					}],
+					"indexRange": "1100-8403",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				},
+				"SegmentBase_asArray": [{
+					"Initialization": {
+						"range": "0-1099"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1099"
+					}],
+					"indexRange": "1100-8403",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				}],
+				"id": "1",
+				"bandwidth": 433288,
+				"codecs": "avc1.64081e",
+				"mimeType": "video/mp4",
+				"sar": "1533:1472",
+				"width": 640,
+				"height": 360,
+				"frameRate": "90000/3600",
+				"ContentProtection": [{
+					"value": "cenc",
+					"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+					"cenc:default_KID": "197fd934-1f4a-33c3-9460-99b795722ac1"
+				}, {
+					"pssh": {
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQGX/ZNB9KM8OUYJm3lXIqwRoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					},
+					"pssh_asArray": [{
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQGX/ZNB9KM8OUYJm3lXIqwRoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					}],
+					"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+				}],
+				"SupplementalProperty": {
+					"schemeIdUri": "urn:mpeg:dash:adaptation-set-switching:2016",
+					"value": "2"
+				}
+			}],
+			"id": 1,
+			"contentType": "video",
+			"width": 640,
+			"height": 360,
+			"frameRate": "90000/3600",
+			"subsegmentAlignment": "true",
+			"par": "24:13"
+		}, {
+			"ContentProtection": [{
+				"value": "cenc",
+				"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+				"cenc:default_KID": "2a3873c6-a822-379f-9c4b-9c364a9167ac"
+			}, {
+				"pssh": {
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				},
+				"pssh_asArray": [{
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				}],
+				"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+			}],
+			"ContentProtection_asArray": [{
+				"value": "cenc",
+				"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+				"cenc:default_KID": "2a3873c6-a822-379f-9c4b-9c364a9167ac"
+			}, {
+				"pssh": {
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				},
+				"pssh_asArray": [{
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				}],
+				"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+			}],
+			"SupplementalProperty": {
+				"schemeIdUri": "urn:mpeg:dash:adaptation-set-switching:2016",
+				"value": "1"
+			},
+			"SupplementalProperty_asArray": [{
+				"schemeIdUri": "urn:mpeg:dash:adaptation-set-switching:2016",
+				"value": "1"
+			}],
+			"Role": {
+				"schemeIdUri": "urn:mpeg:dash:role:2011",
+				"value": "main"
+			},
+			"Role_asArray": [{
+				"schemeIdUri": "urn:mpeg:dash:role:2011",
+				"value": "main"
+			}],
+			"Representation": [{
+				"BaseURL": "1_3-0-95f6c5e7281911eb89667cd30a5a30b4.mp4",
+				"BaseURL_asArray": ["1_3-0-95f6c5e7281911eb89667cd30a5a30b4.mp4"],
+				"SegmentBase": {
+					"Initialization": {
+						"range": "0-1099"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1099"
+					}],
+					"indexRange": "1100-8403",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				},
+				"SegmentBase_asArray": [{
+					"Initialization": {
+						"range": "0-1099"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1099"
+					}],
+					"indexRange": "1100-8403",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				}],
+				"id": "2",
+				"bandwidth": 1610960,
+				"codecs": "avc1.64081f",
+				"mimeType": "video/mp4",
+				"sar": "1533:1472",
+				"width": 1280,
+				"height": 720,
+				"frameRate": "90000/3600",
+				"ContentProtection": [{
+					"value": "cenc",
+					"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+					"cenc:default_KID": "2a3873c6-a822-379f-9c4b-9c364a9167ac"
+				}, {
+					"pssh": {
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					},
+					"pssh_asArray": [{
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					}],
+					"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+				}],
+				"SupplementalProperty": {
+					"schemeIdUri": "urn:mpeg:dash:adaptation-set-switching:2016",
+					"value": "1"
+				}
+			}, {
+				"BaseURL": "1_1-0-95f6c5e7281911eb89667cd30a5a30b4.mp4",
+				"BaseURL_asArray": ["1_1-0-95f6c5e7281911eb89667cd30a5a30b4.mp4"],
+				"SegmentBase": {
+					"Initialization": {
+						"range": "0-1100"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1100"
+					}],
+					"indexRange": "1101-8404",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				},
+				"SegmentBase_asArray": [{
+					"Initialization": {
+						"range": "0-1100"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1100"
+					}],
+					"indexRange": "1101-8404",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				}],
+				"id": "3",
+				"bandwidth": 3158912,
+				"codecs": "avc1.640828",
+				"mimeType": "video/mp4",
+				"sar": "1533:1472",
+				"width": 1920,
+				"height": 1080,
+				"frameRate": "90000/3600",
+				"ContentProtection": [{
+					"value": "cenc",
+					"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+					"cenc:default_KID": "2a3873c6-a822-379f-9c4b-9c364a9167ac"
+				}, {
+					"pssh": {
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					},
+					"pssh_asArray": [{
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					}],
+					"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+				}],
+				"SupplementalProperty": {
+					"schemeIdUri": "urn:mpeg:dash:adaptation-set-switching:2016",
+					"value": "1"
+				}
+			}],
+			"Representation_asArray": [{
+				"BaseURL": "1_3-0-95f6c5e7281911eb89667cd30a5a30b4.mp4",
+				"BaseURL_asArray": ["1_3-0-95f6c5e7281911eb89667cd30a5a30b4.mp4"],
+				"SegmentBase": {
+					"Initialization": {
+						"range": "0-1099"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1099"
+					}],
+					"indexRange": "1100-8403",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				},
+				"SegmentBase_asArray": [{
+					"Initialization": {
+						"range": "0-1099"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1099"
+					}],
+					"indexRange": "1100-8403",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				}],
+				"id": "2",
+				"bandwidth": 1610960,
+				"codecs": "avc1.64081f",
+				"mimeType": "video/mp4",
+				"sar": "1533:1472",
+				"width": 1280,
+				"height": 720,
+				"frameRate": "90000/3600",
+				"ContentProtection": [{
+					"value": "cenc",
+					"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+					"cenc:default_KID": "2a3873c6-a822-379f-9c4b-9c364a9167ac"
+				}, {
+					"pssh": {
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					},
+					"pssh_asArray": [{
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					}],
+					"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+				}],
+				"SupplementalProperty": {
+					"schemeIdUri": "urn:mpeg:dash:adaptation-set-switching:2016",
+					"value": "1"
+				}
+			}, {
+				"BaseURL": "1_1-0-95f6c5e7281911eb89667cd30a5a30b4.mp4",
+				"BaseURL_asArray": ["1_1-0-95f6c5e7281911eb89667cd30a5a30b4.mp4"],
+				"SegmentBase": {
+					"Initialization": {
+						"range": "0-1100"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1100"
+					}],
+					"indexRange": "1101-8404",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				},
+				"SegmentBase_asArray": [{
+					"Initialization": {
+						"range": "0-1100"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1100"
+					}],
+					"indexRange": "1101-8404",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				}],
+				"id": "3",
+				"bandwidth": 3158912,
+				"codecs": "avc1.640828",
+				"mimeType": "video/mp4",
+				"sar": "1533:1472",
+				"width": 1920,
+				"height": 1080,
+				"frameRate": "90000/3600",
+				"ContentProtection": [{
+					"value": "cenc",
+					"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+					"cenc:default_KID": "2a3873c6-a822-379f-9c4b-9c364a9167ac"
+				}, {
+					"pssh": {
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					},
+					"pssh_asArray": [{
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					}],
+					"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+				}],
+				"SupplementalProperty": {
+					"schemeIdUri": "urn:mpeg:dash:adaptation-set-switching:2016",
+					"value": "1"
+				}
+			}],
+			"id": 2,
+			"contentType": "video",
+			"maxWidth": 1920,
+			"maxHeight": 1080,
+			"frameRate": "90000/3600",
+			"subsegmentAlignment": "true",
+			"par": "24:13"
+		}, {
+			"ContentProtection": [{
+				"value": "cenc",
+				"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+				"cenc:default_KID": "f4a35016-dcb7-305a-b8a2-64cd75f59282"
+			}, {
+				"pssh": {
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQ9KNQFty3MFq4omTNdfWSghoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				},
+				"pssh_asArray": [{
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQ9KNQFty3MFq4omTNdfWSghoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				}],
+				"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+			}],
+			"ContentProtection_asArray": [{
+				"value": "cenc",
+				"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+				"cenc:default_KID": "f4a35016-dcb7-305a-b8a2-64cd75f59282"
+			}, {
+				"pssh": {
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQ9KNQFty3MFq4omTNdfWSghoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				},
+				"pssh_asArray": [{
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQ9KNQFty3MFq4omTNdfWSghoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				}],
+				"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+			}],
+			"Representation": {
+				"AudioChannelConfiguration": {
+					"schemeIdUri": "urn:mpeg:dash:23003:3:audio_channel_configuration:2011",
+					"value": "2"
+				},
+				"AudioChannelConfiguration_asArray": [{
+					"schemeIdUri": "urn:mpeg:dash:23003:3:audio_channel_configuration:2011",
+					"value": "2"
+				}],
+				"BaseURL": "1_1-0-95f6c5e7281911eb89667cd30a5a30b4_audio.mp4",
+				"BaseURL_asArray": ["1_1-0-95f6c5e7281911eb89667cd30a5a30b4_audio.mp4"],
+				"SegmentBase": {
+					"Initialization": {
+						"range": "0-973"
+					},
+					"Initialization_asArray": [{
+						"range": "0-973"
+					}],
+					"indexRange": "974-8277",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				},
+				"SegmentBase_asArray": [{
+					"Initialization": {
+						"range": "0-973"
+					},
+					"Initialization_asArray": [{
+						"range": "0-973"
+					}],
+					"indexRange": "974-8277",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				}],
+				"id": "4",
+				"bandwidth": 143299,
+				"codecs": "mp4a.40.2",
+				"mimeType": "audio/mp4",
+				"audioSamplingRate": 44100,
+				"ContentProtection": [{
+					"value": "cenc",
+					"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+					"cenc:default_KID": "f4a35016-dcb7-305a-b8a2-64cd75f59282"
+				}, {
+					"pssh": {
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQ9KNQFty3MFq4omTNdfWSghoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					},
+					"pssh_asArray": [{
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQ9KNQFty3MFq4omTNdfWSghoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					}],
+					"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+				}]
+			},
+			"Representation_asArray": [{
+				"AudioChannelConfiguration": {
+					"schemeIdUri": "urn:mpeg:dash:23003:3:audio_channel_configuration:2011",
+					"value": "2"
+				},
+				"AudioChannelConfiguration_asArray": [{
+					"schemeIdUri": "urn:mpeg:dash:23003:3:audio_channel_configuration:2011",
+					"value": "2"
+				}],
+				"BaseURL": "1_1-0-95f6c5e7281911eb89667cd30a5a30b4_audio.mp4",
+				"BaseURL_asArray": ["1_1-0-95f6c5e7281911eb89667cd30a5a30b4_audio.mp4"],
+				"SegmentBase": {
+					"Initialization": {
+						"range": "0-973"
+					},
+					"Initialization_asArray": [{
+						"range": "0-973"
+					}],
+					"indexRange": "974-8277",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				},
+				"SegmentBase_asArray": [{
+					"Initialization": {
+						"range": "0-973"
+					},
+					"Initialization_asArray": [{
+						"range": "0-973"
+					}],
+					"indexRange": "974-8277",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				}],
+				"id": "4",
+				"bandwidth": 143299,
+				"codecs": "mp4a.40.2",
+				"mimeType": "audio/mp4",
+				"audioSamplingRate": 44100,
+				"ContentProtection": [{
+					"value": "cenc",
+					"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+					"cenc:default_KID": "f4a35016-dcb7-305a-b8a2-64cd75f59282"
+				}, {
+					"pssh": {
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQ9KNQFty3MFq4omTNdfWSghoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					},
+					"pssh_asArray": [{
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQ9KNQFty3MFq4omTNdfWSghoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					}],
+					"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+				}]
+			}],
+			"id": 3,
+			"contentType": "audio",
+			"subsegmentAlignment": "true"
+		}],
+		"AdaptationSet_asArray": [{
+			"Representation": {
+				"BaseURL": "subtitle.vtt",
+				"BaseURL_asArray": ["subtitle.vtt"],
+				"id": "0",
+				"bandwidth": 256,
+				"mimeType": "text/vtt"
+			},
+			"Representation_asArray": [{
+				"BaseURL": "subtitle.vtt",
+				"BaseURL_asArray": ["subtitle.vtt"],
+				"id": "0",
+				"bandwidth": 256,
+				"mimeType": "text/vtt"
+			}],
+			"id": 0,
+			"contentType": "text",
+			"subsegmentAlignment": "true"
+		}, {
+			"ContentProtection": [{
+				"value": "cenc",
+				"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+				"cenc:default_KID": "197fd934-1f4a-33c3-9460-99b795722ac1"
+			}, {
+				"pssh": {
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQGX/ZNB9KM8OUYJm3lXIqwRoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				},
+				"pssh_asArray": [{
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQGX/ZNB9KM8OUYJm3lXIqwRoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				}],
+				"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+			}],
+			"ContentProtection_asArray": [{
+				"value": "cenc",
+				"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+				"cenc:default_KID": "197fd934-1f4a-33c3-9460-99b795722ac1"
+			}, {
+				"pssh": {
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQGX/ZNB9KM8OUYJm3lXIqwRoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				},
+				"pssh_asArray": [{
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQGX/ZNB9KM8OUYJm3lXIqwRoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				}],
+				"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+			}],
+			"SupplementalProperty": {
+				"schemeIdUri": "urn:mpeg:dash:adaptation-set-switching:2016",
+				"value": "2"
+			},
+			"SupplementalProperty_asArray": [{
+				"schemeIdUri": "urn:mpeg:dash:adaptation-set-switching:2016",
+				"value": "2"
+			}],
+			"Role": {
+				"schemeIdUri": "urn:mpeg:dash:role:2011",
+				"value": "main"
+			},
+			"Role_asArray": [{
+				"schemeIdUri": "urn:mpeg:dash:role:2011",
+				"value": "main"
+			}],
+			"Representation": {
+				"BaseURL": "1_7-0-95f6c5e7281911eb89667cd30a5a30b4.mp4",
+				"BaseURL_asArray": ["1_7-0-95f6c5e7281911eb89667cd30a5a30b4.mp4"],
+				"SegmentBase": {
+					"Initialization": {
+						"range": "0-1099"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1099"
+					}],
+					"indexRange": "1100-8403",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				},
+				"SegmentBase_asArray": [{
+					"Initialization": {
+						"range": "0-1099"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1099"
+					}],
+					"indexRange": "1100-8403",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				}],
+				"id": "1",
+				"bandwidth": 433288,
+				"codecs": "avc1.64081e",
+				"mimeType": "video/mp4",
+				"sar": "1533:1472",
+				"width": 640,
+				"height": 360,
+				"frameRate": "90000/3600",
+				"ContentProtection": [{
+					"value": "cenc",
+					"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+					"cenc:default_KID": "197fd934-1f4a-33c3-9460-99b795722ac1"
+				}, {
+					"pssh": {
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQGX/ZNB9KM8OUYJm3lXIqwRoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					},
+					"pssh_asArray": [{
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQGX/ZNB9KM8OUYJm3lXIqwRoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					}],
+					"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+				}],
+				"SupplementalProperty": {
+					"schemeIdUri": "urn:mpeg:dash:adaptation-set-switching:2016",
+					"value": "2"
+				}
+			},
+			"Representation_asArray": [{
+				"BaseURL": "1_7-0-95f6c5e7281911eb89667cd30a5a30b4.mp4",
+				"BaseURL_asArray": ["1_7-0-95f6c5e7281911eb89667cd30a5a30b4.mp4"],
+				"SegmentBase": {
+					"Initialization": {
+						"range": "0-1099"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1099"
+					}],
+					"indexRange": "1100-8403",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				},
+				"SegmentBase_asArray": [{
+					"Initialization": {
+						"range": "0-1099"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1099"
+					}],
+					"indexRange": "1100-8403",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				}],
+				"id": "1",
+				"bandwidth": 433288,
+				"codecs": "avc1.64081e",
+				"mimeType": "video/mp4",
+				"sar": "1533:1472",
+				"width": 640,
+				"height": 360,
+				"frameRate": "90000/3600",
+				"ContentProtection": [{
+					"value": "cenc",
+					"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+					"cenc:default_KID": "197fd934-1f4a-33c3-9460-99b795722ac1"
+				}, {
+					"pssh": {
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQGX/ZNB9KM8OUYJm3lXIqwRoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					},
+					"pssh_asArray": [{
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQGX/ZNB9KM8OUYJm3lXIqwRoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					}],
+					"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+				}],
+				"SupplementalProperty": {
+					"schemeIdUri": "urn:mpeg:dash:adaptation-set-switching:2016",
+					"value": "2"
+				}
+			}],
+			"id": 1,
+			"contentType": "video",
+			"width": 640,
+			"height": 360,
+			"frameRate": "90000/3600",
+			"subsegmentAlignment": "true",
+			"par": "24:13"
+		}, {
+			"ContentProtection": [{
+				"value": "cenc",
+				"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+				"cenc:default_KID": "2a3873c6-a822-379f-9c4b-9c364a9167ac"
+			}, {
+				"pssh": {
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				},
+				"pssh_asArray": [{
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				}],
+				"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+			}],
+			"ContentProtection_asArray": [{
+				"value": "cenc",
+				"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+				"cenc:default_KID": "2a3873c6-a822-379f-9c4b-9c364a9167ac"
+			}, {
+				"pssh": {
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				},
+				"pssh_asArray": [{
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				}],
+				"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+			}],
+			"SupplementalProperty": {
+				"schemeIdUri": "urn:mpeg:dash:adaptation-set-switching:2016",
+				"value": "1"
+			},
+			"SupplementalProperty_asArray": [{
+				"schemeIdUri": "urn:mpeg:dash:adaptation-set-switching:2016",
+				"value": "1"
+			}],
+			"Role": {
+				"schemeIdUri": "urn:mpeg:dash:role:2011",
+				"value": "main"
+			},
+			"Role_asArray": [{
+				"schemeIdUri": "urn:mpeg:dash:role:2011",
+				"value": "main"
+			}],
+			"Representation": [{
+				"BaseURL": "1_3-0-95f6c5e7281911eb89667cd30a5a30b4.mp4",
+				"BaseURL_asArray": ["1_3-0-95f6c5e7281911eb89667cd30a5a30b4.mp4"],
+				"SegmentBase": {
+					"Initialization": {
+						"range": "0-1099"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1099"
+					}],
+					"indexRange": "1100-8403",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				},
+				"SegmentBase_asArray": [{
+					"Initialization": {
+						"range": "0-1099"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1099"
+					}],
+					"indexRange": "1100-8403",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				}],
+				"id": "2",
+				"bandwidth": 1610960,
+				"codecs": "avc1.64081f",
+				"mimeType": "video/mp4",
+				"sar": "1533:1472",
+				"width": 1280,
+				"height": 720,
+				"frameRate": "90000/3600",
+				"ContentProtection": [{
+					"value": "cenc",
+					"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+					"cenc:default_KID": "2a3873c6-a822-379f-9c4b-9c364a9167ac"
+				}, {
+					"pssh": {
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					},
+					"pssh_asArray": [{
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					}],
+					"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+				}],
+				"SupplementalProperty": {
+					"schemeIdUri": "urn:mpeg:dash:adaptation-set-switching:2016",
+					"value": "1"
+				}
+			}, {
+				"BaseURL": "1_1-0-95f6c5e7281911eb89667cd30a5a30b4.mp4",
+				"BaseURL_asArray": ["1_1-0-95f6c5e7281911eb89667cd30a5a30b4.mp4"],
+				"SegmentBase": {
+					"Initialization": {
+						"range": "0-1100"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1100"
+					}],
+					"indexRange": "1101-8404",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				},
+				"SegmentBase_asArray": [{
+					"Initialization": {
+						"range": "0-1100"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1100"
+					}],
+					"indexRange": "1101-8404",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				}],
+				"id": "3",
+				"bandwidth": 3158912,
+				"codecs": "avc1.640828",
+				"mimeType": "video/mp4",
+				"sar": "1533:1472",
+				"width": 1920,
+				"height": 1080,
+				"frameRate": "90000/3600",
+				"ContentProtection": [{
+					"value": "cenc",
+					"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+					"cenc:default_KID": "2a3873c6-a822-379f-9c4b-9c364a9167ac"
+				}, {
+					"pssh": {
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					},
+					"pssh_asArray": [{
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					}],
+					"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+				}],
+				"SupplementalProperty": {
+					"schemeIdUri": "urn:mpeg:dash:adaptation-set-switching:2016",
+					"value": "1"
+				}
+			}],
+			"Representation_asArray": [{
+				"BaseURL": "1_3-0-95f6c5e7281911eb89667cd30a5a30b4.mp4",
+				"BaseURL_asArray": ["1_3-0-95f6c5e7281911eb89667cd30a5a30b4.mp4"],
+				"SegmentBase": {
+					"Initialization": {
+						"range": "0-1099"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1099"
+					}],
+					"indexRange": "1100-8403",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				},
+				"SegmentBase_asArray": [{
+					"Initialization": {
+						"range": "0-1099"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1099"
+					}],
+					"indexRange": "1100-8403",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				}],
+				"id": "2",
+				"bandwidth": 1610960,
+				"codecs": "avc1.64081f",
+				"mimeType": "video/mp4",
+				"sar": "1533:1472",
+				"width": 1280,
+				"height": 720,
+				"frameRate": "90000/3600",
+				"ContentProtection": [{
+					"value": "cenc",
+					"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+					"cenc:default_KID": "2a3873c6-a822-379f-9c4b-9c364a9167ac"
+				}, {
+					"pssh": {
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					},
+					"pssh_asArray": [{
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					}],
+					"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+				}],
+				"SupplementalProperty": {
+					"schemeIdUri": "urn:mpeg:dash:adaptation-set-switching:2016",
+					"value": "1"
+				}
+			}, {
+				"BaseURL": "1_1-0-95f6c5e7281911eb89667cd30a5a30b4.mp4",
+				"BaseURL_asArray": ["1_1-0-95f6c5e7281911eb89667cd30a5a30b4.mp4"],
+				"SegmentBase": {
+					"Initialization": {
+						"range": "0-1100"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1100"
+					}],
+					"indexRange": "1101-8404",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				},
+				"SegmentBase_asArray": [{
+					"Initialization": {
+						"range": "0-1100"
+					},
+					"Initialization_asArray": [{
+						"range": "0-1100"
+					}],
+					"indexRange": "1101-8404",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				}],
+				"id": "3",
+				"bandwidth": 3158912,
+				"codecs": "avc1.640828",
+				"mimeType": "video/mp4",
+				"sar": "1533:1472",
+				"width": 1920,
+				"height": 1080,
+				"frameRate": "90000/3600",
+				"ContentProtection": [{
+					"value": "cenc",
+					"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+					"cenc:default_KID": "2a3873c6-a822-379f-9c4b-9c364a9167ac"
+				}, {
+					"pssh": {
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					},
+					"pssh_asArray": [{
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQKjhzxqgiN5+cS5w2SpFnrBoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					}],
+					"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+				}],
+				"SupplementalProperty": {
+					"schemeIdUri": "urn:mpeg:dash:adaptation-set-switching:2016",
+					"value": "1"
+				}
+			}],
+			"id": 2,
+			"contentType": "video",
+			"maxWidth": 1920,
+			"maxHeight": 1080,
+			"frameRate": "90000/3600",
+			"subsegmentAlignment": "true",
+			"par": "24:13"
+		}, {
+			"ContentProtection": [{
+				"value": "cenc",
+				"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+				"cenc:default_KID": "f4a35016-dcb7-305a-b8a2-64cd75f59282"
+			}, {
+				"pssh": {
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQ9KNQFty3MFq4omTNdfWSghoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				},
+				"pssh_asArray": [{
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQ9KNQFty3MFq4omTNdfWSghoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				}],
+				"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+			}],
+			"ContentProtection_asArray": [{
+				"value": "cenc",
+				"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+				"cenc:default_KID": "f4a35016-dcb7-305a-b8a2-64cd75f59282"
+			}, {
+				"pssh": {
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQ9KNQFty3MFq4omTNdfWSghoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				},
+				"pssh_asArray": [{
+					"__prefix": "cenc",
+					"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQ9KNQFty3MFq4omTNdfWSghoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+				}],
+				"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+			}],
+			"Representation": {
+				"AudioChannelConfiguration": {
+					"schemeIdUri": "urn:mpeg:dash:23003:3:audio_channel_configuration:2011",
+					"value": "2"
+				},
+				"AudioChannelConfiguration_asArray": [{
+					"schemeIdUri": "urn:mpeg:dash:23003:3:audio_channel_configuration:2011",
+					"value": "2"
+				}],
+				"BaseURL": "1_1-0-95f6c5e7281911eb89667cd30a5a30b4_audio.mp4",
+				"BaseURL_asArray": ["1_1-0-95f6c5e7281911eb89667cd30a5a30b4_audio.mp4"],
+				"SegmentBase": {
+					"Initialization": {
+						"range": "0-973"
+					},
+					"Initialization_asArray": [{
+						"range": "0-973"
+					}],
+					"indexRange": "974-8277",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				},
+				"SegmentBase_asArray": [{
+					"Initialization": {
+						"range": "0-973"
+					},
+					"Initialization_asArray": [{
+						"range": "0-973"
+					}],
+					"indexRange": "974-8277",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				}],
+				"id": "4",
+				"bandwidth": 143299,
+				"codecs": "mp4a.40.2",
+				"mimeType": "audio/mp4",
+				"audioSamplingRate": 44100,
+				"ContentProtection": [{
+					"value": "cenc",
+					"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+					"cenc:default_KID": "f4a35016-dcb7-305a-b8a2-64cd75f59282"
+				}, {
+					"pssh": {
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQ9KNQFty3MFq4omTNdfWSghoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					},
+					"pssh_asArray": [{
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQ9KNQFty3MFq4omTNdfWSghoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					}],
+					"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+				}]
+			},
+			"Representation_asArray": [{
+				"AudioChannelConfiguration": {
+					"schemeIdUri": "urn:mpeg:dash:23003:3:audio_channel_configuration:2011",
+					"value": "2"
+				},
+				"AudioChannelConfiguration_asArray": [{
+					"schemeIdUri": "urn:mpeg:dash:23003:3:audio_channel_configuration:2011",
+					"value": "2"
+				}],
+				"BaseURL": "1_1-0-95f6c5e7281911eb89667cd30a5a30b4_audio.mp4",
+				"BaseURL_asArray": ["1_1-0-95f6c5e7281911eb89667cd30a5a30b4_audio.mp4"],
+				"SegmentBase": {
+					"Initialization": {
+						"range": "0-973"
+					},
+					"Initialization_asArray": [{
+						"range": "0-973"
+					}],
+					"indexRange": "974-8277",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				},
+				"SegmentBase_asArray": [{
+					"Initialization": {
+						"range": "0-973"
+					},
+					"Initialization_asArray": [{
+						"range": "0-973"
+					}],
+					"indexRange": "974-8277",
+					"timescale": 90000,
+					"presentationTimeOffset": 133200
+				}],
+				"id": "4",
+				"bandwidth": 143299,
+				"codecs": "mp4a.40.2",
+				"mimeType": "audio/mp4",
+				"audioSamplingRate": 44100,
+				"ContentProtection": [{
+					"value": "cenc",
+					"schemeIdUri": "urn:mpeg:dash:mp4protection:2011",
+					"cenc:default_KID": "f4a35016-dcb7-305a-b8a2-64cd75f59282"
+				}, {
+					"pssh": {
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQ9KNQFty3MFq4omTNdfWSghoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					},
+					"pssh_asArray": [{
+						"__prefix": "cenc",
+						"__text": "AAAAiXBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGkIARIQ9KNQFty3MFq4omTNdfWSghoIY2FzdGxhYnMiQGV5SmhjM05sZEVsa0lqb2llbVJ3YzJsMVVIUk9XR3R1YkV0WlNWZGpXbXBWWlVSS2QwOXlUVU40VkV3aWZRPT0yB2RlZmF1bHQ="
+					}],
+					"schemeIdUri": "urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed"
+				}]
+			}],
+			"id": 3,
+			"contentType": "audio",
+			"subsegmentAlignment": "true"
+		}],
+		"id": "0"
+	}],
+	"xmlns": "urn:mpeg:dash:schema:mpd:2011",
+	"xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+	"xmlns:cenc": "urn:mpeg:cenc:2013",
+	"xsi:schemaLocation": "urn:mpeg:dash:schema:mpd:2011 DASH-MPD.xsd",
+	"profiles": "urn:mpeg:dash:profile:isoff-on-demand:2011",
+	"minBufferTime": 2,
+	"type": "static",
+	"mediaPresentationDuration": 6052,
+	"protocol": "DASH",
+	"baseUri": "https://aws-smart-prod-dash.smartcinemausa.com/xgqs-160553759248253169/160555740057941326/",
+	"loadedTime": "2020-12-28T09:39:44.075Z"
+}

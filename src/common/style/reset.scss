@@ -1,0 +1,170 @@
+@charset "utf-8";
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+  letter-spacing: 0;
+}
+
+html {
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  background: $bg-body;
+  color: $color-normal;
+  font-family: -apple-system, BlinkMacSystemFont, "PingFang SC",
+    "Helvetica Neue", STHeiti, "Microsoft Yahei", Tahoma, Simsun, sans-serif;
+  font-weight: 400;
+  overflow: auto;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+  user-select: none;
+  transform: translateZ(0);
+}
+
+body,
+dd,
+dl,
+form,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ol,
+p,
+ul {
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 100%;
+  font-weight: normal;
+}
+
+ol,
+ul {
+  padding: 0;
+  list-style: none;
+}
+
+a,
+a:hover {
+  text-decoration: none;
+}
+
+input,
+select,
+textarea {
+  outline: none;
+  font-size: 100%;
+  -webkit-appearance: none;
+}
+
+img {
+  border-style: none;
+}
+
+b,
+em {
+  font-style: normal;
+  font-weight: normal;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+.btn {
+  cursor: pointer;
+  @include flex(row, center, center);
+}
+
+.number {
+  font-family: DINCondensed-Bold, DINCondensed, "PingFang SC", "Helvetica Neue",
+    STHeiti, "Microsoft Yahei", Tahoma, Simsun, sans-serif;
+}
+
+:focus {
+  outline: none;
+}
+
+*.pos-active {
+  box-shadow: 0 0 0 $pos-active-size $color-active;
+}
+
+*.pos-active-reset {
+  box-shadow: none;
+}
+
+@keyframes progressing {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 100%;
+  }
+}
+
+.h5-alert-msg {
+  padding: rem(20) rem(30);
+  line-height: 1em;
+  font-size: rem(30);
+}
+.h5-loading {
+  z-index: 100;
+
+  .loading-main {
+    background: none;
+    .loading-icon {
+      width: rem(170);
+      height: rem(170);
+      background: url(https://g.smartcinemausa.com/images/8c985d11dcc247878f342429177c1e8e-340-340.gif)
+        center no-repeat;
+      background-size: contain;
+      animation: none;
+    }
+  }
+}
+
+video::-webkit-media-controls-fullscreen-button {
+  display: none !important;
+}
+
+video::-webkit-media-controls-volume-control-container {
+  display: none !important;
+}
+
+video::-internal-media-controls-overflow-button {
+  display: none !important;
+  opacity: 0 !important;
+}
+
+// video::-webkit-media-controls {
+//   display: none !important;
+// }
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: all 0.6s cubic-bezier(0.4, 0, 0.6, 1);
+}
+
+.fade-enter,
+.fade-leave-to {
+  opacity: 0;
+}
